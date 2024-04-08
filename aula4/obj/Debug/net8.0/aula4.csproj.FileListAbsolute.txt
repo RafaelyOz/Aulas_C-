@@ -12,3 +12,4 @@ C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\aula4\obj\Debug\net8.0\refint\
 C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\aula4\obj\Debug\net8.0\aula4.pdb
 C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\aula4\obj\Debug\net8.0\aula4.genruntimeconfig.cache
 C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\aula4\obj\Debug\net8.0\ref\aula4.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\aula4\obj\Debug\net8.0\aula4.sourcelink.json
