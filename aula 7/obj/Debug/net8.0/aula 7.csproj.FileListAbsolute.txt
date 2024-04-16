@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\aula7C#\aula 7\bin\Debug\net8.0\aula 7.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\aula7C#\aula 7\bin\Debug\net8.0\aula 7.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\aula7C#\aula 7\bin\Debug\net8.0\aula 7.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\aula7C#\aula 7\bin\Debug\net8.0\aula 7.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\aula7C#\aula 7\bin\Debug\net8.0\aula 7.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\aula7C#\aula 7\obj\Debug\net8.0\aula 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\aula7C#\aula 7\obj\Debug\net8.0\aula 7.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\aula7C#\aula 7\obj\Debug\net8.0\aula 7.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\aula7C#\aula 7\obj\Debug\net8.0\aula 7.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\aula7C#\aula 7\obj\Debug\net8.0\aula 7.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\aula7C#\aula 7\obj\Debug\net8.0\refint\aula 7.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\aula7C#\aula 7\obj\Debug\net8.0\aula 7.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\aula7C#\aula 7\obj\Debug\net8.0\aula 7.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\aula7C#\aula 7\obj\Debug\net8.0\ref\aula 7.dll
