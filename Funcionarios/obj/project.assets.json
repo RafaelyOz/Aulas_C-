@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\aula4C#\\atividade_figuras\\atividade_figuras.csproj",
-      "projectName": "atividade_figuras",
-      "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\aula4C#\\atividade_figuras\\atividade_figuras.csproj",
+      "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\ativ_C#\\Funcionarios\\Funcionarios.csproj",
+      "projectName": "Funcionarios",
+      "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\ativ_C#\\Funcionarios\\Funcionarios.csproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\aula4C#\\atividade_figuras\\obj\\",
+      "outputPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\ativ_C#\\Funcionarios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"

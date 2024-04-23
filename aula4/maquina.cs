@@ -21,7 +21,7 @@ public class Maquina
         {
             Console.WriteLine($"Produto Produzido: {ProdutoProduzido.NomeProduto}");
             Console.WriteLine($"Preço: R${ProdutoProduzido.Preco}");
-        }
+        } 
     }
 
     public void IniciarProducao()

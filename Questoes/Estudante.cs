@@ -4,10 +4,10 @@ public class Estudante
     public string NomeEstudante { get; set; }
     public int Idade { get; set; }
 
-    public Estudante(string matricula, string nomeEstudante, int idade)
+    public Estudante(string Matricula, string NomeEstudante, int Idade)
     {
-        Matricula = matricula;
-        NomeEstudante = nomeEstudante;
-        Idade = idade;
+        this.Matricula = Matricula;
+        this.NomeEstudante = NomeEstudante;
+        this.Idade = Idade;
     }
 }

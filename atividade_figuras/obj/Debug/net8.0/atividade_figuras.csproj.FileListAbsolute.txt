@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\atividade_figuras\bin\Debug\net8.0\atividade_figuras.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\atividade_figuras\bin\Debug\net8.0\atividade_figuras.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\atividade_figuras\bin\Debug\net8.0\atividade_figuras.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\atividade_figuras\bin\Debug\net8.0\atividade_figuras.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\atividade_figuras\bin\Debug\net8.0\atividade_figuras.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\atividade_figuras\obj\Debug\net8.0\atividade_figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\atividade_figuras\obj\Debug\net8.0\atividade_figuras.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\atividade_figuras\obj\Debug\net8.0\atividade_figuras.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\atividade_figuras\obj\Debug\net8.0\atividade_figuras.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\atividade_figuras\obj\Debug\net8.0\atividade_figuras.sourcelink.json
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\atividade_figuras\obj\Debug\net8.0\atividade_figuras.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\atividade_figuras\obj\Debug\net8.0\refint\atividade_figuras.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\atividade_figuras\obj\Debug\net8.0\atividade_figuras.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\atividade_figuras\obj\Debug\net8.0\atividade_figuras.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\atividade_figuras\obj\Debug\net8.0\ref\atividade_figuras.dll
