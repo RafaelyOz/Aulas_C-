@@ -1,4 +1,4 @@
 public interface iConta{
-    public double depositar();
-    public double sacar();
+    public double depositar(double valor);
+    public double sacar(double valor);
 }
