@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\Biblioteca\obj\Debug\net8.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\Biblioteca\obj\Debug\net8.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\Biblioteca\obj\Debug\net8.0\Biblioteca.sourcelink.json
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\Biblioteca\bin\Debug\net8.0\Biblioteca.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\Biblioteca\bin\Debug\net8.0\Biblioteca.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\Biblioteca\bin\Debug\net8.0\Biblioteca.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\Biblioteca\bin\Debug\net8.0\Biblioteca.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\Biblioteca\bin\Debug\net8.0\Biblioteca.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\Biblioteca\obj\Debug\net8.0\Biblioteca.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\Biblioteca\obj\Debug\net8.0\refint\Biblioteca.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\Biblioteca\obj\Debug\net8.0\Biblioteca.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\Biblioteca\obj\Debug\net8.0\Biblioteca.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\Biblioteca\obj\Debug\net8.0\ref\Biblioteca.dll
