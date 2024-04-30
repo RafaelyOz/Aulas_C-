@@ -1,0 +1,5 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\Conta\obj\Debug\net8.0\Conta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\Conta\obj\Debug\net8.0\Conta.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\Conta\obj\Debug\net8.0\Conta.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\Conta\obj\Debug\net8.0\Conta.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\aula4C#\Conta\obj\Debug\net8.0\Conta.sourcelink.json
