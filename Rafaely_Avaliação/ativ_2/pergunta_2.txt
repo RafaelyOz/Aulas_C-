@@ -1,0 +1,7 @@
+2.	O que são interfaces em orientação a objetos e qual é a sua importância na construção de sistemas em C#?
+ Dê um exemplo de como uma interface pode ser utilizada para garantir a interoperabilidade entre diferentes classes em um sistema de pagamento online.
+
+R: Elas são tipo contratos que definem um conjunto de métodos e propriedades que uma classe deve implementar.
+As interfaces são definidas usando a palavra 'interface'.
+
+** Na implementação utilizei o chat para ver a lógica e a partir do exemplo fornecido, acrescentei o método de pagamento cartão de débito para o usuário ter mais uma opção**

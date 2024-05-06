@@ -1,0 +1,12 @@
+3.	Diferencie sobrecarga e sobreposição (ou sobrescrita)
+ e forneça exemplos de cada um em C#.
+
+ R:Sobrecarga: Quando o nome das funções é o mesmo e só muda os parâmetros.
+ Permite que tenha várias versões de uma função com o comportamentos diferentes.
+
+ Sobrescrita: Ocorre quando uma classe derivada fornece uma implementção, já utilizada
+ na classe base, isso permite a substituição do método herdado, para que isso ocorra na classe
+ base o método precisa estar como vitual e na derivada como override.
+
+ ** A implementação dos exemplos tive ajuda do chat para lógica no exemplo de sobrecarga a principio era para ser a classe pessoa,
+ mas eu mudei e fiz cachorro para testar e a de sobrescrita a classe inicial era cachorro eu troquei por uma vaca, já que no primeiro exemplo temos o cachorro.**

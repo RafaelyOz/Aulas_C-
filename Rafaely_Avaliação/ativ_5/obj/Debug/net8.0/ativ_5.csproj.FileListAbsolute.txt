@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\Avaliação\ativ_5\obj\Debug\net8.0\ativ_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\Avaliação\ativ_5\obj\Debug\net8.0\ativ_5.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Avaliação\ativ_5\obj\Debug\net8.0\ativ_5.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\Avaliação\ativ_5\obj\Debug\net8.0\ativ_5.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Avaliação\ativ_5\bin\Debug\net8.0\ativ_5.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\Avaliação\ativ_5\bin\Debug\net8.0\ativ_5.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\Avaliação\ativ_5\bin\Debug\net8.0\ativ_5.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\Avaliação\ativ_5\bin\Debug\net8.0\ativ_5.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Avaliação\ativ_5\bin\Debug\net8.0\ativ_5.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\Avaliação\ativ_5\obj\Debug\net8.0\ativ_5.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Avaliação\ativ_5\obj\Debug\net8.0\refint\ativ_5.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Avaliação\ativ_5\obj\Debug\net8.0\ativ_5.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\Avaliação\ativ_5\obj\Debug\net8.0\ativ_5.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Avaliação\ativ_5\obj\Debug\net8.0\ref\ativ_5.dll
